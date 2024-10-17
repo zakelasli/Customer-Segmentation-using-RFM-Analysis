@@ -100,20 +100,4 @@ SELECT CustomerName, Recency, Frequency, Monetary_Value, R_Score, F_Score, M_Sco
        END AS RFM_Segment
 FROM #RFM;
 
-## Tableau Visualization
-You can explore the interactive Tableau dashboard for the RFM analysis through the link below:
 
-[![Tableau Visualization](https://public.tableau.com/app/profile/zakaria.el.asli/viz/RFMVisualizationAnalysis/Tableaudebord1?publish=yes)](https://public.tableau.com/app/profile/zakaria.el.asli/viz/RFMVisualizationAnalysis/Tableaudebord1?publish=yes)
-
-
-## Tools & Technologies
-SQL Server: Used to perform data extraction and calculate the RFM scores.
-Tableau: Used to create visualizations of the customer segments and insights.
-
-## Key Features
-Calculation of RFM scores using SQL.
-Segmentation of customers into meaningful categories based on their purchasing behavior.
-Visualization of customer segments and key metrics using Tableau.
-
-## Use Cases
-This project can be applied to enhance customer relationship management, target specific customer groups with personalized marketing strategies, and improve retention rates by identifying at-risk customers.
