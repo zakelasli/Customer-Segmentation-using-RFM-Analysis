@@ -3,7 +3,7 @@ This project demonstrates customer segmentation using the RFM (Recency, Frequenc
 
 ## SQL Script
 
-```sql
+```.sql
 -- Inspecting Data 
 SELECT * 
 FROM [dbo].[sales_data_sample];
