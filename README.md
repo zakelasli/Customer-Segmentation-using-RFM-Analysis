@@ -118,8 +118,9 @@ You can explore the interactive Tableau dashboard for the RFM analysis through t
 [![Tableau Visualization](https://public.tableau.com/app/profile/zakaria.el.asli/viz/RFMVisualizationAnalysis/Tableaudebord1?publish=yes)](https://public.tableau.com/app/profile/zakaria.el.asli/viz/RFMVisualizationAnalysis/Tableaudebord1?publish=yes)
 
 Below is a snapshot of the Tableau dashboard:
-
-![Tableau Dashboard Screenshot](path_to_screenshot_here)
+<div>
+<img ![Tableau Dashboard Screenshot](https:///C:/Users/pc/Downloads/SCreenshot%20git.PNG)
+</div>
 
 
 
